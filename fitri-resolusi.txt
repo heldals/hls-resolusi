@@ -1,0 +1,5 @@
+Hallo, nama saya fitri, dari Semarang
+
+Resolusi saya : 
+- Membuat website menggunakan framework javascript
+- Mengerjakan project machine learning
